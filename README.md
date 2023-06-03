@@ -1,6 +1,6 @@
 # CL_Anthology
 
-This repository collects a list of recent **continual learning papers**, with the intention of providing the reader with a structured overview of the state-of-the art papers divided by the *category* and the *modality* considered in the papers. 
+This repository collects a list of recent **continual learning papers**, with the intention of providing the reader with a structured overview of the state-of-the art papers divided by the *category* (e.g., rehearsal, regularization, architectural) and the *modality*  (e.g., audio/speech, text/NLP, image/vision) considered in the papers. 
 
 ## CL Surveys
 
@@ -10,4 +10,9 @@ This repository collects a list of recent **continual learning papers**, with th
 robotics: Definition, framework, learning strategies, opportunities and challenges**". *Information Fusion*, 58:52–68, 2020. (https://www.sciencedirect.com/science/article/abs/pii/S1566253519307377)
 - L. Wang, X. Zhang, H. Su, and J. Zhu. "**A comprehensive survey of continual learning: Theory, method and application**". *arXiv preprint arXiv:2302.00487*, 2023. (https://arxiv.org/abs/2302.00487)
 - D. Zhou, Q. Wang, Z. Qi, H. Ye, D. Zhan, and Z. Liu, "**Deep Class-Incremental Learning: A Survey**
-", *arXiv preprint arXiv:2302.03648*, 2023. [https://arxiv.org/abs/2302.03648]
+", *arXiv preprint arXiv:2302.03648*, 2023. (https://arxiv.org/abs/2302.03648)
+
+## CL in NLP
+
+**Architectural**
+- A. Razdaibiedina, Y. Mao and R. Hou, M. Khabsa, M. Lewis, and A. Almahairi, "**Progressive prompts: Continual learning for language models**", *ICLR*, 2023. (https://arxiv.org/abs/2301.12314)
