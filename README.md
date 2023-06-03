@@ -2,6 +2,8 @@
 
 This repository collects a list of recent **continual learning papers**, with the intention of providing the reader with a structured overview of the state-of-the art papers divided by the *category* (e.g., rehearsal, regularization, architectural) and the *modality*  (e.g., audio/speech, text/NLP, image/vision) considered in the papers. 
 
+Any suggestion is warmly appreciated, so if you think a paper is worth being listed here, please let me know!
+
 ## CL Surveys
 
 - M. De Lange, R. Aljundi, M.Masana, et al., “**A continual learning survey: Defying forgetting in classification tasks**,” *IEEE transactions on pattern analysis and machine intelligence*, vol. 44, no. 7, pp. 3366–3385, 2021. (https://arxiv.org/abs/1909.08383)
