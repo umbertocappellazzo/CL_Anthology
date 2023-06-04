@@ -20,8 +20,23 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 ## CL in Vision
 
 - Wang, Z., Zhang, Z., Lee, C.Y., Zhang, H., Sun, R., Ren, X., Su, G., Perot, V., Dy, J. and Pfister, T., "**Learning to prompt for continual learning**", CVPR, 2022. **ARC** **[[Paper](https://arxiv.org/abs/2112.08654)]**
+- Sun, S., Calandriello, D., Hu, H., Li, A. and Titsias, M., "**Information-theoretic online memory selection for continual learning**", *ICLR*, 2022. **[[Paper](https://arxiv.org/abs/2204.04763)]**
+- Boschini, M., Bonicelli, L., Buzzega, P., Porrello, A. and Calderara, S., "**Class-incremental continual learning into the extended der-verse**", *TPAMI*, 2022. **REH + REG** **[[Paper](https://arxiv.org/abs/2201.00766)]**
 - Smith, J. and Karlinsky, L. and Gutta, V. and Cascante-Bonilla, P. et al., "**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**", CVPR, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2211.13218)]**
 - Jeeveswaran K, Bhat P, Zonooz B, Arani E., "**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**", *ICML*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/abs/2305.04769)]**
+- Frascaroli, E., Benaglia, R., Boschini, M., Moschella, L., Fiorini, C., Rodolà, E. and Calderara, S., "**CaSpeR: Latent Spectral Regularization for Continual Learning**", *arxiv preprint*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2301.03345)]**
+
+### CL for Image Segmentation
+
+- Yang, G., Fini, E., Xu, D., Rota, P., Ding, M., Nabi, M., Alameda-Pineda, X. and Ricci, E., "**Uncertainty-aware contrastive distillation for incremental semantic segmentation**", *TPAMI*, 2022. **REG** **[[Paper](https://ieeexplore.ieee.org/abstract/document/9745778)]** 
+- Zhao, D., Yuan, B. and Shi, Z., "**Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory**", *TPAMI*, 2023. **REG** **[[Paper](https://ieeexplore.ieee.org/document/10120962)]**
+- Cermelli, F., Cord, M. and Douillard, A., "**CoMFormer: Continual Learning in Semantic and Panoptic Segmentation**", *CVPR*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2211.13999)]**
+
+## CL for Audio and Speech
+
+- U. Cappellazzo, D. Falavigna, and A. Brutti, "**An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding**", *INTERSPEECH*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2211.08161)]**
+- Wang, Z., Subakan, C., Jiang, X., Wu, J., Tzinis, E., Ravanelli, M. and Smaragdis, P., "**Learning Representations for New Sound Classes With Continual Self-Supervised Learning**", *IEEE Signal Processing Letters*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2205.07390)]**
+- U. Cappellazzo, M. Yang, D. Falavigna, and A. Brutti, "**Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding**", *INTERSPEECH*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.13899)]**
 
 ## CL in NLP
 
