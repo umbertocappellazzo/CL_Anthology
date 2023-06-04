@@ -20,7 +20,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 ## CL in Vision
 
 - Wang, Z., Zhang, Z., Lee, C.Y., Zhang, H., Sun, R., Ren, X., Su, G., Perot, V., Dy, J. and Pfister, T., "**Learning to prompt for continual learning**", CVPR, 2022. **ARC** **[[Paper](https://arxiv.org/abs/2112.08654)]**
-- Sun, S., Calandriello, D., Hu, H., Li, A. and Titsias, M., "**Information-theoretic online memory selection for continual learning**", *ICLR*, 2022. **[[Paper](https://arxiv.org/abs/2204.04763)]**
+- Sun, S., Calandriello, D., Hu, H., Li, A. and Titsias, M., "**Information-theoretic online memory selection for continual learning**", *ICLR*, 2022. **REH** **[[Paper](https://arxiv.org/abs/2204.04763)]**
 - Boschini, M., Bonicelli, L., Buzzega, P., Porrello, A. and Calderara, S., "**Class-incremental continual learning into the extended der-verse**", *TPAMI*, 2022. **REH + REG** **[[Paper](https://arxiv.org/abs/2201.00766)]**
 - Smith, J. and Karlinsky, L. and Gutta, V. and Cascante-Bonilla, P. et al., "**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**", CVPR, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2211.13218)]**
 - Jeeveswaran K, Bhat P, Zonooz B, Arani E., "**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**", *ICML*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/abs/2305.04769)]**
