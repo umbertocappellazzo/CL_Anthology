@@ -41,7 +41,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 ## CL in NLP
 
 - A. Razdaibiedina, Y. Mao and R. Hou, M. Khabsa, M. Lewis, and A. Almahairi, "**Progressive prompts: Continual learning for language models**", *ICLR*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2301.12314)]**
-- Ke, Z., Shao, Y., Lin, H., Konishi, T., Kim, G. and Liu, B., "**Continual Pre-training of Language Models**", *iCLR*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2302.03241)]**
+- Ke, Z., Shao, Y., Lin, H., Konishi, T., Kim, G. and Liu, B., "**Continual Pre-training of Language Models**", *ICLR*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2302.03241)]**
 
 
 ## CL for Vision-Language
