@@ -20,12 +20,14 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 
 ## CL in Vision
 
+- Wang, K., Herranz, L. and van de Weijer, J., "**Continual learning in cross-modal retrieval**", *CVPR*, 2021. **REG** **[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Wang_Continual_Learning_in_Cross-Modal_Retrieval_CVPRW_2021_paper.pdf)]**
 - Wang, Z., Zhang, Z., Lee, C.Y., Zhang, H., Sun, R., Ren, X., Su, G., Perot, V., Dy, J. and Pfister, T., "**Learning to prompt for continual learning**", CVPR, 2022. **ARC** **[[Paper](https://arxiv.org/abs/2112.08654)]**
 - Sun, S., Calandriello, D., Hu, H., Li, A. and Titsias, M., "**Information-theoretic online memory selection for continual learning**", *ICLR*, 2022. **REH** **[[Paper](https://arxiv.org/abs/2204.04763)]**
 - Boschini, M., Bonicelli, L., Buzzega, P., Porrello, A. and Calderara, S., "**Class-incremental continual learning into the extended der-verse**", *TPAMI*, 2022. **REH + REG** **[[Paper](https://arxiv.org/abs/2201.00766)]**
 - Smith, J. and Karlinsky, L. and Gutta, V. and Cascante-Bonilla, P. et al., "**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**", CVPR, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2211.13218)]**
 - Jeeveswaran K, Bhat P, Zonooz B, Arani E., "**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**", *ICML*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/abs/2305.04769)]**
 - Frascaroli, E., Benaglia, R., Boschini, M., Moschella, L., Fiorini, C., Rodolà, E. and Calderara, S., "**CaSpeR: Latent Spectral Regularization for Continual Learning**", *arxiv preprint*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2301.03345)]**
+- Jiang, S., Fang, Y., Zhang, H., Wang, P., Qi, Y. and Liu, Q., "**Teacher Agent: A Non-Knowledge Distillation Method for Rehearsal-based Video Incremental Learning**", *arxiv preprint*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/pdf/2306.00393.pdf)]**
 
 ### CL for Image Segmentation
 
