@@ -28,6 +28,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Jeeveswaran K, Bhat P, Zonooz B, Arani E., "**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**", *ICML*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/abs/2305.04769)]**
 - Frascaroli, E., Benaglia, R., Boschini, M., Moschella, L., Fiorini, C., Rodolà, E. and Calderara, S., "**CaSpeR: Latent Spectral Regularization for Continual Learning**", *arxiv preprint*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2301.03345)]**
 - Jiang, S., Fang, Y., Zhang, H., Wang, P., Qi, Y. and Liu, Q., "**Teacher Agent: A Non-Knowledge Distillation Method for Rehearsal-based Video Incremental Learning**", *arxiv preprint*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/pdf/2306.00393.pdf)]**
+- S. Paul, L. Frey, R. Kamath, K. Kersting, M. Mundt, "**Masked Autoencoders are Efficient Continual Federated Learners**", *arxiv preprint*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2306.03542)]**
 
 ### CL for Image Segmentation
 
