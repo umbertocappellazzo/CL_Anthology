@@ -42,6 +42,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - U. Cappellazzo, D. Falavigna, and A. Brutti, "**An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding**", *INTERSPEECH*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2211.08161)]**
 - Wang, Z., Subakan, C., Jiang, X., Wu, J., Tzinis, E., Ravanelli, M. and Smaragdis, P., "**Learning Representations for New Sound Classes With Continual Self-Supervised Learning**", *IEEE Signal Processing Letters*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2205.07390)]**
 - U. Cappellazzo, M. Yang, D. Falavigna, and A. Brutti, "**Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding**", *INTERSPEECH*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.13899)]**
+- Jiang, X., Li, Y.A. and Mesgarani, N., "**DeCoR: Defy Knowledge Forgetting by Predicting Earlier Audio Codes**", *INTERSPEECH*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2305.18441)]**
 
 ## CL in NLP
 
