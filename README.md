@@ -43,6 +43,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Wang, Z., Subakan, C., Jiang, X., Wu, J., Tzinis, E., Ravanelli, M. and Smaragdis, P., "**Learning Representations for New Sound Classes With Continual Self-Supervised Learning**", *IEEE Signal Processing Letters*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2205.07390)]**
 - U. Cappellazzo, M. Yang, D. Falavigna, and A. Brutti, "**Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding**", *INTERSPEECH*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.13899)]**
 - Jiang, X., Li, Y.A. and Mesgarani, N., "**DeCoR: Defy Knowledge Forgetting by Predicting Earlier Audio Codes**", *INTERSPEECH*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2305.18441)]**
+- Diwan, A., Yeh, C.F., Hsu, W.N., Tomasello, P., Choi, E., Harwath, D. and Mohamed, A., "**Continual Learning for On-Device Speech Recognition using Disentangled Conformers**", *ICASSP*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2212.01393)]**
 
 ## CL in NLP
 
