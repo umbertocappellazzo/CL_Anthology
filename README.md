@@ -52,6 +52,7 @@ Transformers**, *INTERSPEECH*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/23
 - Cao, Y., Wei, H.R., Chen, B. and Wan, X., "**Continual learning for neural machine translation**", *NAACL-HLT*, 2021. **REG** **[[Paper](https://arxiv.org/pdf/2212.09097.pdf)]**
 - A. Razdaibiedina, Y. Mao and R. Hou, M. Khabsa, M. Lewis, and A. Almahairi, "**Progressive prompts: Continual learning for language models**", *ICLR*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2301.12314)]**
 - Ke, Z., Shao, Y., Lin, H., Konishi, T., Kim, G. and Liu, B., "**Continual Pre-training of Language Models**", *ICLR*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2302.03241)]**
+- Wang, J., Dong, D., Shou, L., Chen, K. and Chen, G., "**Effective Continual Learning for Text Classification with Lightweight Snapshots**", *AAAI*, 2023. **REG + ARC** **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26206)]**
 
 
 ## CL for Vision-Language
