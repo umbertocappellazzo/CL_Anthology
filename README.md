@@ -30,6 +30,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Jiang, S., Fang, Y., Zhang, H., Wang, P., Qi, Y. and Liu, Q., "**Teacher Agent: A Non-Knowledge Distillation Method for Rehearsal-based Video Incremental Learning**", *arxiv preprint*, 2023. **REH** + **REG** **[[Paper](https://arxiv.org/pdf/2306.00393.pdf)]**
 - S. Paul, L. Frey, R. Kamath, K. Kersting, M. Mundt, "**Masked Autoencoders are Efficient Continual Federated Learners**", *arxiv preprint*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2306.03542)]**
 - De Lange, M., van de Ven, G. and Tuytelaars, T., "**Continual evaluation for lifelong learning: Identifying the stability gap**", *ICLR*, 2023. **[[Paper](https://arxiv.org/abs/2205.13452)]**
+- Kang, Z., Fini, E., Nabi, M., Ricci, E. and Alahari, K., "**A soft nearest-neighbor framework for continual semi-supervised learning**", *ICCV*, 2023. **REG + REH** **[[Paper](https://arxiv.org/abs/2212.05102)]**
 
 ### CL for Image Segmentation
 
