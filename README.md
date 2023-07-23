@@ -17,6 +17,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - L. Wang, X. Zhang, H. Su, and J. Zhu. "**A comprehensive survey of continual learning: Theory, method and application**". *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.00487)]**
 - D. Zhou, Q. Wang, Z. Qi, H. Ye, D. Zhan, and Z. Liu, "**Deep Class-Incremental Learning: A Survey**
 ", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.03648)]**
+- Wang, Z., Yang, E., Shen, L. and Huang, H., "**A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning**", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2307.09218)]**
 
 ## CL in Vision
 
