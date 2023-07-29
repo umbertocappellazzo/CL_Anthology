@@ -1,6 +1,6 @@
 # CL_Anthology
 
-This repository collects a list (non-exhaustive and under-development) of recent **continual learning (CL) papers**, with the intention of providing the reader with a structured overview of the state-of-the-art CL papers divided by the *category* (e.g., rehearsal, regularization, architectural) and the *modality*  (e.g., audio/speech, text/NLP, image/vision) considered in the papers. Given my constant quest to keep up with brand-new papers, I deem this collection can come in handy for other people. 
+This repository collects a list (non-exhaustive and under-development) of recent **continual learning (CL) papers**, with the intention of providing the reader with a structured overview of the state-of-the-art CL papers divided by the *category* (e.g., rehearsal, regularization, architectural) and the *modality*  (e.g., audio/speech, text/NLP, image/vision) considered in the papers. Given my constant quest to keep up with brand-new papers, I hope this collection can come in handy for other people. 
 
 I would like to include papers that **in my opinion** are compelling and noteworthy, nevertheless any suggestion is warmly appreciated, so if you think a paper is worth being listed here, please let me know!
 
