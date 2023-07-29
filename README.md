@@ -36,6 +36,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Zhao, H., Zhou, T., Long, G., Jiang, J. and Zhang, C., "**Does Continual Learning Equally Forget All Parameters?**", *ICML*, 2023. **REH** **[[Paper](https://arxiv.org/pdf/2304.04158.pdf)]**
 - Wang, Z., Zhan, Z., Gong, Y., Shao, Y., Ioannidis, S., Wang, Y. and Dy, J., "**DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning**", *ICML*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.00380)]**
 - Ni, Z., Wei, L., Tang, S., Zhuang, Y. and Tian, Q., "**Continual Vision-Language Representaion Learning with Off-Diagonal Information**", *ICML*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2305.07437)]**
+- Hu, Z., Lyu, J., Gao, D. and Vasconcelos, N., **POP: Prompt Of Prompts for Continual Learning**, *arxiv preprint*, 2023. **REH + ARCH** **[[Paper](https://arxiv.org/abs/2306.08200)]**
 
 ### CL for Image Segmentation
 
