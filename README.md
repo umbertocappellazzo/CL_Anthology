@@ -12,12 +12,12 @@ I would like to include papers that **in my opinion** are compelling and notewor
 - G. I. Parisi, R. Kemker, J. L. Part, C. Kanan, and S. Wermter, “**Continual lifelong learning with neural networks: A review**,” *Neural Networks*, vol. 113, pp. 54–71, 2019. **[[Paper](https://arxiv.org/abs/1802.07569)**]
 - T. Lesort, V. Lomonaco, A. Stoian, D. Maltoni, D. Filliat, and N. Diaz-Rodriguez, "**Continual learning for
 robotics: Definition, framework, learning strategies, opportunities and challenges**". *Information Fusion*, 58:52–68, 2020. **[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253519307377)]**
-- Kilickaya, M., van de Weijer, J. and Asano, "**Towards Label-Efficient Incremental Learning: A Survey**", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.00353)]**
 - M. De Lange, R. Aljundi, M.Masana, et al., “**A continual learning survey: Defying forgetting in classification tasks**,” *TPAMI*, vol. 44, no. 7, pp. 3366–3385, 2021. **[[Paper](https://arxiv.org/abs/1909.08383)]**
 - L. Wang, X. Zhang, H. Su, and J. Zhu. "**A comprehensive survey of continual learning: Theory, method and application**". *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.00487)]**
 - D. Zhou, Q. Wang, Z. Qi, H. Ye, D. Zhan, and Z. Liu, "**Deep Class-Incremental Learning: A Survey**
 ", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.03648)]**
 - Wang, Z., Yang, E., Shen, L. and Huang, H., "**A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning**", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2307.09218)]**
+- Kilickaya, M., van de Weijer, J. and Asano, "**Towards Label-Efficient Incremental Learning: A Survey**", *arXiv preprint*, 2023. **[[Paper](https://arxiv.org/abs/2302.00353)]**
 
 ## CL in Vision
 
