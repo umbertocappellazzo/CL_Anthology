@@ -33,6 +33,9 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - De Lange, M., van de Ven, G. and Tuytelaars, T., "**Continual evaluation for lifelong learning: Identifying the stability gap**", *ICLR*, 2023. **[[Paper](https://arxiv.org/abs/2205.13452)]**
 - Kang, Z., Fini, E., Nabi, M., Ricci, E. and Alahari, K., "**A soft nearest-neighbor framework for continual semi-supervised learning**", *ICCV*, 2023. **REG + REH** **[[Paper](https://arxiv.org/abs/2212.05102)]**
 - Yoon, J., Hwang, S.J. and Cao, Y., "**Continual Learners are Incremental Model Generalizers**", *ICML*, 2023. **REG + ARC** **[[Paper](https://arxiv.org/abs/2306.12026)]**
+- Zhao, H., Zhou, T., Long, G., Jiang, J. and Zhang, C., "**Does Continual Learning Equally Forget All Parameters?**", *ICML*, 2023. **REH** **[[Paper](https://arxiv.org/pdf/2304.04158.pdf)]**
+- Wang, Z., Zhan, Z., Gong, Y., Shao, Y., Ioannidis, S., Wang, Y. and Dy, J., "**DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning**", *ICML*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.00380)]**
+- Ni, Z., Wei, L., Tang, S., Zhuang, Y. and Tian, Q., "**Continual Vision-Language Representaion Learning with Off-Diagonal Information**", *ICML*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2305.07437)]**
 
 ### CL for Image Segmentation
 
@@ -49,6 +52,7 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Diwan, A., Yeh, C.F., Hsu, W.N., Tomasello, P., Choi, E., Harwath, D. and Mohamed, A., "**Continual Learning for On-Device Speech Recognition using Disentangled Conformers**", *ICASSP*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2212.01393)]**
 - Selvaraj, N.M., Guo, X., Kong, A., Shen, B. and Kot, A., **Adapter Incremental Continual Learning of Efficient Audio Spectrogram
 Transformers**, *INTERSPEECH*, 2023. **ARC** **[[Paper](https://arxiv.org/abs/2302.14314)]**
+- Michieli, U., Parada, P.P. and Ozay, M., "**Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics**", *INTERSPEECH*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2307.12660)]**
 
 ## CL in NLP
 
