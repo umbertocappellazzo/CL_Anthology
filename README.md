@@ -37,6 +37,8 @@ robotics: Definition, framework, learning strategies, opportunities and challeng
 - Wang, Z., Zhan, Z., Gong, Y., Shao, Y., Ioannidis, S., Wang, Y. and Dy, J., "**DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning**", *ICML*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2305.00380)]**
 - Ni, Z., Wei, L., Tang, S., Zhuang, Y. and Tian, Q., "**Continual Vision-Language Representaion Learning with Off-Diagonal Information**", *ICML*, 2023. **REG** **[[Paper](https://arxiv.org/abs/2305.07437)]**
 - Hu, Z., Lyu, J., Gao, D. and Vasconcelos, N., **POP: Prompt Of Prompts for Continual Learning**, *arxiv preprint*, 2023. **REH + ARCH** **[[Paper](https://arxiv.org/abs/2306.08200)]**
+- Zhai, J.T., Liu, X., Bagdanov, A.D., Li, K. and Cheng, M.M., **Masked Autoencoders are Efficient Class Incremental Learners**, *ICCV*, 2023. **REH + REG** **[[Paper](https://arxiv.org/abs/2308.12510)]**
+- Khan, M.G.Z.A., Naeem, M.F., Van Gool, L., Stricker, D., Tombari, F. and Afzal, M.Z., **Introducing Language Guidance in Prompt-based Continual Learning**, *ICCV*, 2023. **ARCH** **[[Paper](https://arxiv.org/abs/2308.15827)]**
 
 ### CL for Image Segmentation
 
